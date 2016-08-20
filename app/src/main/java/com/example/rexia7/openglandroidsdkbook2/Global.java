@@ -13,4 +13,6 @@ public class Global {
 
     public static Random rand =
             new Random(System.currentTimeMillis());
+
+    public static MainActivity mainActivity;
 }
